@@ -1,0 +1,4 @@
+baseURL = "https://hugo-tarea2-temas.netlify.app/"
+languageCode = "en-us"
+title = "Tarea 2 Temas"
+theme = "plain"
